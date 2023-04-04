@@ -1,0 +1,35 @@
+.schedule-container{
+    margin-top: 0px auto;
+
+}
+.schedule-table {
+    overflow-x: scroll;
+    margin-left: 100px;
+    border: solid;
+    top: 10px;;
+    align-items: flex-start;
+    position:static;
+    float: inline-end;
+    align-content: start;
+
+}
+.employee-names-column{
+    border:solid;
+    width: 100px;
+    top:0%;
+    float:left;
+    margin-right: 1px;
+
+}
+.schedule-cells {
+    border-right: solid;
+    text-align: center;
+    width: 200px;
+    margin-top: 10px;
+
+}
+.employee-name-cells {
+    margin-top: 10px;
+    text-align: center;
+    border-top: solid;
+}
